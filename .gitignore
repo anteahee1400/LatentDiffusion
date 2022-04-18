@@ -1,0 +1,9 @@
+outputs
+*.ipynb
+*.ckpt
+*.pth
+*.tar
+.ipynb_checkpoints
+__pycache__
+lightning_logs
+wandb
